@@ -111,19 +111,19 @@ with st.expander("_click here!_"):
 #     st.plotly_chart(fig)
 
 #Badge
-st.subheader('Badge')
-with st.expander('First badge'):
-    image = Image.open('Python_for_Data_Sci_and_AI_Foundational.PNG')
-    st.image(image, caption='Python for Data Science, AI', width=290)
-    verification_link = "https://www.credly.com/badges/74497ea2-905b-4e72-9286-4d61c9167ac1/public_url"
-    markdown_string = f"**[View Verification Link]({verification_link})**"
-    st.markdown(markdown_string)
-with st.expander('Second badge'):
-    image = Image.open('it_support_badge.PNG')
-    st.image(image, caption='IT Support', width=340)
-    verification_link = "https://www.credly.com/badges/87e060a3-5dbc-4922-953c-a2c35e79a715/public_url "
-    markdown_string = f"**[View Verification Link]({verification_link})**"
-    st.markdown(markdown_string)
+# st.subheader('Badge')
+# with st.expander('First badge'):
+#     image = Image.open('Python_for_Data_Sci_and_AI_Foundational.PNG')
+#     st.image(image, caption='Python for Data Science, AI', width=290)
+#     verification_link = "https://www.credly.com/badges/74497ea2-905b-4e72-9286-4d61c9167ac1/public_url"
+#     markdown_string = f"**[View Verification Link]({verification_link})**"
+#     st.markdown(markdown_string)
+# with st.expander('Second badge'):
+#     image = Image.open('it_support_badge.PNG')
+#     st.image(image, caption='IT Support', width=340)
+#     verification_link = "https://www.credly.com/badges/87e060a3-5dbc-4922-953c-a2c35e79a715/public_url "
+#     markdown_string = f"**[View Verification Link]({verification_link})**"
+#     st.markdown(markdown_string)
 
     
 #Skills
