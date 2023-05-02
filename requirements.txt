@@ -2,8 +2,8 @@ altair==4.2.2
 folium==0.14.0
 numpy==1.21.5
 pandas==1.4.4
-Pillow==9.2.0
-Pillow==9.4.0
+Pillow
+Pillow
 Pillow==9.5.0
 Pillow==9.5.0
 plotly==5.9.0
