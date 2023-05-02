@@ -5,6 +5,7 @@ pandas==1.4.4
 Pillow==9.2.0
 Pillow==9.4.0
 Pillow==9.5.0
+Pillow==9.5.0
 plotly==5.9.0
 pyttsx3==2.90
 Requests==2.29.0
