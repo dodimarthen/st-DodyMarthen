@@ -94,7 +94,7 @@ with st.expander("_click here!_"):
 #Badge
 st.subheader('Badge')
 with st.expander('First badge'):
-    image = Image.open('Python_for_Data_Sci_and_AI_Foundational.PNG')
+    image = Image.open('Python_for_Data_Sci_and_AI_Foundational.png')
     st.image(image, caption='Python for Data Science, AI', width=290)
     verification_link = "https://www.credly.com/badges/74497ea2-905b-4e72-9286-4d61c9167ac1/public_url"
     markdown_string = f"**[View Verification Link]({verification_link})**"
