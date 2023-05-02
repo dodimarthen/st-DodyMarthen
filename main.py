@@ -100,7 +100,7 @@ with st.expander('First badge'):
     markdown_string = f"**[View Verification Link]({verification_link})**"
     st.markdown(markdown_string)
 with st.expander('Second badge'):
-    image = Image.open('it_support_badge.PNG')
+    image = Image.open('it_support_badge.png')
     st.image(image, caption='IT Support', width=340)
     verification_link = "https://www.credly.com/badges/87e060a3-5dbc-4922-953c-a2c35e79a715/public_url "
     markdown_string = f"**[View Verification Link]({verification_link})**"
